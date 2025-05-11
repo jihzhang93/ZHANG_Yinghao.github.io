@@ -46,49 +46,20 @@ Dr. Zhang welcomes prospective graduate students interested in digital economy, 
 
 ## 科研项目 | Research Projects
 
-### 主持项目 | As Principal Investigator
-
-1. **中国直播电商经济的时空演化机制与地方创业激励效应研究**  
-   国家自然科学基金项目 (42401210), 2025-2027
-
-2. **新质生产力形成背景下山东省数字经济多维度时空耦合协调机制与政策体系研究**  
-   山东省社会科学规划项目 (24DJJJ19), 2024-2027
-
-3. **数字经济发展对经济波动影响的复杂性研究**  
-   山东理工大学社科博启动项目 (4033/723023), 2023-2026
-
-**Spatial-Temporal Evolution Mechanism and Local Entrepreneurial Incentive Effect of China's Live-streaming E-commerce Economy**  
-National Natural Science Foundation of China (42401210), 2025-2027
-
-**Research on Multi-dimensional Spatial-Temporal Coupling Coordination Mechanism and Policy System of Shandong Province's Digital Economy under the Background of New Quality Productive Forces**  
-Shandong Province Social Science Planning Project (24DJJJ19), 2024-2027
-
-**Complexity Research on the Impact of Digital Economy Development on Economic Fluctuations**  
-Shandong University of Technology Social Science Ph.D. Startup Project (4033/723023), 2023-2026
-
-### 参研项目 | As Participating Researcher
-
-1. **新零售背景下企业区位动态与城市商业空间演化研究——以上海为例**  
-   国家自然科学基金面上项目 (42171207), 2022-2025
-
-2. **互联网赋能地方发展的理论与应用研究——中国模式和经验**  
-   上海市教委/省部级重大项目, 2022-2025
-
-3. **科技创新赋能上海城市数字化转型的路径与对策研究**  
-   上海市"科技创新行动计划"软科学重点项目, 已结题
-
-4. 其他多个已完成项目，涉及区域发展、生态规划和产业链发展等，分布于中国多个省市
-
-**Research on Enterprise Location Dynamics and Urban Commercial Space Evolution under the Background of New Retail—Taking Shanghai as an Example**  
-National Natural Science Foundation of China General Project (42171207), 2022-2025
-
-**Theory and Application Research on Internet Empowering Local Development—Chinese Model and Experience**  
-Shanghai Municipal Education Commission/Provincial and Ministerial Major Project, 2022-2025
-
-**Research on the Path and Countermeasures of Science and Technology Innovation Empowering Shanghai's Urban Digital Transformation**  
-Shanghai "Science and Technology Innovation Action Plan" Soft Science Key Project, completed
-
-Multiple other completed projects related to regional development, ecological planning, and industrial chain development across various Chinese provinces and cities
+中国直播电商经济的时空演化机制与地方创业激励效应研究/国家自然科学基金项目（42401210），2025-2027，主持
+新质生产力形成背景下山东省数字经济多维度时空耦合协调机制与政策体系研究/山东省社会科学规划项目（24DJJJ19），2024-2027，主持
+数字经济发展对经济波动影响的复杂性研究/山东理工大学社科博启动项目（4033/723023），2023-2026，主持
+新零售背景下企业区位动态与城市商业空间演化研究------以上海为例/国家自然科学基金面上项目（42171207），2022-2025，参研
+互联网赋能地方发展的理论与应用研究------中国模式和经验/上海市教委/省部级重大项目，2022-2025，参研
+科技创新赋能上海城市数字化转型的路径与对策研究/上海市 "科技创新行动计划"软科学重点项目，已结题（主研）
+互联网赋能城市创新转型的经验和模式研究/国家社科基金重点项目，已结题（参研）
+广州车城网产业发展研究/广州市住建局，已结题（参研）
+崇明世界级生态岛绿皮书2020/上海崇明政府，已结题（参研）
+芜湖市长江经济发展规划/芜湖市政府，已结题 （参研）
+南京江北新区"人地挂钩"规划试点方案编制/南京江北新区，已结题（参研）
+淮安生态文旅水城专项规划编制和主体功能区实施规划修编/淮安市，已结题（参研）
+江苏省农村建设用地调查/江苏省自然资源厅，已结题（参研）
+苏南典型村镇 一二三产联动发展全产业链规划/中科院，已结题（参研）
 
 ## 主要研究成果 | Selected Publications
 

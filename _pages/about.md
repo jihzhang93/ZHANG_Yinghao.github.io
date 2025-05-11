@@ -1,49 +1,173 @@
+# 张英浩博士学术主页 | Dr. Zhang Yinghao's Academic Portfolio
+
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "张英浩博士 - 数字经济地理学者 | Dr. Zhang Yinghao - Digital Economic Geography Scholar"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+## 个人简介 | Academic Profile
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+张英浩，博士，民革党员，讲师，硕士生导师。
+主要研究兴趣包括：数字经济地理；平台经济与区域发展；农村电商；低空经济；城乡融合等。
+2024年中国知网高被引Top1%学者。
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+担任《地理研究》《地理科学进展》《资源科学》《地理科学》，Economics of Innovation and New Technology（SSCI）、Technology in Society（SSCI）等期刊审稿人。
+区域研究协会（RSA）会员、美国地理学家协会（AAG）会员、中国地理学会会员、中国亚洲太平洋学会会员、山东县域经济研究会会员以及山东省企业管理研究会会员；《长安大学学报（社会科学版）》经济学青年编委。
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Dr. Zhang Yinghao is a lecturer and master's supervisor specializing in digital economic geography, platform economics and regional development, rural e-commerce, low-altitude economy, and urban-rural integration. As a member of the Revolutionary Committee of the Chinese Kuomintang, his research has positioned him among the top 1% of highly cited scholars in CNKI (China National Knowledge Infrastructure) for 2024.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Dr. Zhang serves as a reviewer for prestigious journals including *Geographical Research*, *Progress in Geography*, *Resources Science*, *Scientia Geographica Sinica*, *Economics of Innovation and New Technology* (SSCI), and *Technology in Society* (SSCI). His professional affiliations include membership in the Regional Studies Association (RSA), American Association of Geographers (AAG), Geographical Society of China, China Asia-Pacific Society, Shandong County Economy Research Association, and Shandong Enterprise Management Research Association. He also serves as a youth editorial committee member for economics at the *Journal of Chang'an University (Social Science Edition)*.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## 联系方式 | Contact Information
 
-**Markdown generator**
+电子邮箱 | Email: zhangyinghao16@mails.ucas.ac.cn
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+欢迎对数字经济、低空经济、直播电商、农村电商研究主题感兴趣且同时具有一定计量或编程（计算机语言）基础的考生进行报考。欢迎发邮件进行详谈。
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Dr. Zhang welcomes prospective graduate students interested in digital economy, low-altitude economy, live-streaming e-commerce, and rural e-commerce research, particularly those with quantitative or programming backgrounds. Interested candidates are encouraged to contact him directly via email.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+## 教育背景 | Education
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- **理学博士**, 华东师范大学 (2019-2023)
+- **联合培养博士**, 伯明翰大学国际与战略商务系 (2021.10-2022.10)  
+  *国家留学基金委项目*
+- **理学硕士**, 中国科学院南京地理与湖泊研究所 (2016-2019)
+- **理学学士**, 山东师范大学 (2012-2016)
+
+- **Ph.D. in Science**, East China Normal University (2019-2023)
+- **Joint Ph.D. Training**, International and Strategic Business Department, University of Birmingham, UK (2021.10-2022.10)  
+  *China Scholarship Council Fellowship*
+- **M.Sc. in Science**, Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences (2016-2019)
+- **B.Sc. in Science**, Shandong Normal University (2012-2016)
+
+## 科研项目 | Research Projects
+
+### 主持项目 | As Principal Investigator
+
+1. **中国直播电商经济的时空演化机制与地方创业激励效应研究**  
+   国家自然科学基金项目 (42401210), 2025-2027
+
+2. **新质生产力形成背景下山东省数字经济多维度时空耦合协调机制与政策体系研究**  
+   山东省社会科学规划项目 (24DJJJ19), 2024-2027
+
+3. **数字经济发展对经济波动影响的复杂性研究**  
+   山东理工大学社科博启动项目 (4033/723023), 2023-2026
+
+**Spatial-Temporal Evolution Mechanism and Local Entrepreneurial Incentive Effect of China's Live-streaming E-commerce Economy**  
+National Natural Science Foundation of China (42401210), 2025-2027
+
+**Research on Multi-dimensional Spatial-Temporal Coupling Coordination Mechanism and Policy System of Shandong Province's Digital Economy under the Background of New Quality Productive Forces**  
+Shandong Province Social Science Planning Project (24DJJJ19), 2024-2027
+
+**Complexity Research on the Impact of Digital Economy Development on Economic Fluctuations**  
+Shandong University of Technology Social Science Ph.D. Startup Project (4033/723023), 2023-2026
+
+### 参研项目 | As Participating Researcher
+
+1. **新零售背景下企业区位动态与城市商业空间演化研究——以上海为例**  
+   国家自然科学基金面上项目 (42171207), 2022-2025
+
+2. **互联网赋能地方发展的理论与应用研究——中国模式和经验**  
+   上海市教委/省部级重大项目, 2022-2025
+
+3. **科技创新赋能上海城市数字化转型的路径与对策研究**  
+   上海市"科技创新行动计划"软科学重点项目, 已结题
+
+4. 其他多个已完成项目，涉及区域发展、生态规划和产业链发展等，分布于中国多个省市
+
+**Research on Enterprise Location Dynamics and Urban Commercial Space Evolution under the Background of New Retail—Taking Shanghai as an Example**  
+National Natural Science Foundation of China General Project (42171207), 2022-2025
+
+**Theory and Application Research on Internet Empowering Local Development—Chinese Model and Experience**  
+Shanghai Municipal Education Commission/Provincial and Ministerial Major Project, 2022-2025
+
+**Research on the Path and Countermeasures of Science and Technology Innovation Empowering Shanghai's Urban Digital Transformation**  
+Shanghai "Science and Technology Innovation Action Plan" Soft Science Key Project, completed
+
+Multiple other completed projects related to regional development, ecological planning, and industrial chain development across various Chinese provinces and cities
+
+## 主要研究成果 | Selected Publications
+
+1. **张英浩**，汪明峰，匡爱平，符琳蓉，崔璐明 (2023). 数字经济赋能中国城市创新发展的多维机制与空间效应研究. *地理科学进展*, 42(12): 2283-2295.  
+   **Zhang, Y.**, Wang, M., Kuang, A., Fu, L., Cui, L. (2023). Research on Multi-dimensional Mechanisms and Spatial Effects of Digital Economy Empowering China's Urban Innovation Development. *Progress in Geography*, 42(12): 2283-2295.
+
+2. **张英浩**，汪明峰，汪凡，匡爱平 (2022). 长三角地区新型基础设施建设的地理格局及影响因素——以5G基站为例. *长江流域资源与环境*, 31(12): 2557-2567.  
+   **Zhang, Y.**, Wang, M., Wang, F., Kuang, A. (2022). Geographical Pattern and Influencing Factors of New Infrastructure Construction in the Yangtze River Delta Region—Taking 5G Base Stations as an Example. *Resources and Environment in the Yangtze Basin*, 31(12): 2557-2567.
+
+3. **张英浩**，汪明峰，崔璐明，匡爱平 (2022). 数字经济水平对中国市域绿色全要素生产率的影响. *经济地理*, 42(9): 33-42. **被引90次，下载超7000次，被《澎湃新闻》转载**  
+   **Zhang, Y.**, Wang, M., Cui, L., Kuang, A. (2022). The Impact of Digital Economy Level on China's Municipal Green Total Factor Productivity. *Economic Geography*, 42(9): 33-42. **90+ citations, 7000+ downloads, featured in The Paper**
+
+4. **张英浩**，汪明峰，汪凡，刘婷婷 (2022). 中国直播电商发展的空间差异与影响机理研究. *地理科学*, 42(9): 1555-1565. **被人大复印报刊资料全文转载**  
+   **Zhang, Y.**, Wang, M., Wang, F., Liu, T. (2022). Research on Spatial Differences and Influencing Mechanisms of China's Live-streaming E-commerce Development. *Scientia Geographica Sinica*, 42(9): 1555-1565. **Full text reprinted by Renmin University Reprographic Materials**
+
+5. **张英浩**，汪明峰，刘婷婷 (2022). 数字经济对中国经济高质量发展的空间效应与影响路径. *地理研究*, 41(7): 1826-1844. **下载超12000次，被引超170次**  
+   **Zhang, Y.**, Wang, M., Liu, T. (2022). Spatial Effects and Impact Paths of Digital Economy on China's High-quality Economic Development. *Geographical Research*, 41(7): 1826-1844. **12,000+ downloads, 170+ citations**
+
+6. Bryson, J.R., **Zhang, Y.** (2024). Inflection Points and Discontinuities? Pandemic Recovery, Experiential Consumption, and the Emergence of Circular Economy Retail Business Models. In *Pandemic Recovery?* (pp. 249-264). Edward Elgar Publishing.
+
+## 著作参与 | Books and Contributions
+
+1. **《崇明世界级生态岛绿皮书 2020》**  
+   链接 | Link: https://dxb.ecnu.edu.cn/16/cf/c18279a333519/page.htm  
+   **Chongming World-Class Ecological Island Green Book 2020**
+
+2. **《Pandemic Recovery? Reframing and Rescaling Societal Challenges》 (2024)**  
+   链接 | Link: https://www.elgaronline.com/edcollchap/book/9781802201116/book-part-9781802201116-29.xml  
+   **Pandemic Recovery? Reframing and Rescaling Societal Challenges (2024)**
+
+## 主要学术活动（近五年）| Academic Activities (Recent Five Years)
+
+1. 2024.11.15-17: 2024年国际区域研究协会中国分会年会，成都，评议人/作报告  
+   2024.11.15-17: 2024 International Regional Studies Association China Branch Annual Conference, Chengdu, Commentator/Presenter
+
+2. 2024.10.18-20: 2024年中国城市地理学术年会，乌鲁木齐，作报告  
+   2024.10.18-20: 2024 China Urban Geography Academic Annual Conference, Urumqi, Presenter
+
+3. 2024.05.24-26: 第五届经济地理优秀青年学者发展论坛，南京，作报告  
+   2024.05.24-26: 5th Economic Geography Outstanding Young Scholars Development Forum, Nanjing, Presenter
+
+4. 2024.04.26-28: 2024中国地理学会春季年会暨中国地理编辑出版年会，郑州，参会  
+   2024.04.26-28: 2024 Chinese Geographical Society Spring Annual Conference and Chinese Geography Editing and Publishing Annual Conference, Zhengzhou, Attendee
+
+5. 2024.04.16-20: 2024 AAG Annual Meeting，（Hawaii, US state）线上，作报告  
+   2024.04.16-20: 2024 AAG Annual Meeting, (Hawaii, US state) Online, Presenter
+
+6. 2023.12.1-3: 2023年国际区域研究协会中国分会年会，珠海，作报告  
+   2023.12.1-3: 2023 International Regional Studies Association China Branch Annual Conference, Zhuhai, Presenter
+
+## 教学与课程 | Teaching
+
+- **《发展经济学》**（本科生，48课时）  
+  **Development Economics** (Undergraduate, 48 hours)
+- **《网络经济学》**（本科生，32课时）  
+  **Network Economics** (Undergraduate, 32 hours)
+- **《新生研讨课》**（本科生，16课时）  
+  **Freshman Seminar** (Undergraduate, 16 hours)
+- **《数字经济学概论》**（研究生，32课时）  
+  **Introduction to Digital Economics** (Graduate, 32 hours)
+- **《经济增长理论》**（研究生，32课时）  
+  **Economic Growth Theory** (Graduate, 32 hours)
+
+## 主要荣誉奖励 | Awards and Honors
+
+- 2024年度知网高影响力学者 (2024)  
+  CNKI High-Impact Scholar (2024)
+- 《地理研究》优秀审稿人 (2023)  
+  *Geographical Research* Outstanding Reviewer (2023)
+- 2023年上海市优秀毕业生 (2023)  
+  Shanghai Outstanding Graduate (2023)
+- 华东师范大学春芬论坛论文二等奖 (2022)  
+  East China Normal University Chunfen Forum Paper Second Prize (2022)
+- 江苏省地理学会研究生论坛论文一等奖 (2022)  
+  Jiangsu Geographic Society Graduate Forum Paper First Prize (2022)
+- University of Birmingham Business School Postgraduate Development Fund (2022)
+- The Global Conference on Economic Geography (GCEG 2022) 全额旅行资助基金 (2022)  
+  Global Conference on Economic Geography (GCEG 2022) Full Travel Grant (2022)
+
+有关学术合作、研究生指导或研究机会的咨询，请联系张英浩博士：zhangyinghao16@mails.ucas.ac.cn
+
+For inquiries regarding academic collaboration, graduate supervision, or research opportunities, please contact Dr. Zhang at zhangyinghao16@mails.ucas.ac.cn.
